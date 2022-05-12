@@ -1,0 +1,9 @@
+desing the UI for login module
+
+	enter valid un
+	enter valid PWs
+	click on login button
+
+the use should be logged in successfully
+
+pseudo code written
